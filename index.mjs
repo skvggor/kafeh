@@ -2,4 +2,4 @@
 
 import kafeh from './kafeh.mjs'
 
-console.log(kafeh.doYouWantCoffee())
+console.log(kafeh.doYouWantCoffee(process.argv[2]))
