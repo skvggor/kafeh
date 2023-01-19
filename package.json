@@ -1,13 +1,13 @@
 {
   "name": "kafeh",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Description here",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "bin": {
-    "kafeh": "index.js"
+    "kafeh": "index.mjs"
   },
   "repository": {
     "type": "git",
