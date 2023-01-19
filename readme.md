@@ -7,11 +7,25 @@
 Install:
 
 ```bash
-npm i kafeh
+sudo npm i -g kafeh && kafeh
+# café!!!
 ```
 
-Description here / How to use.
+Or run with:
 
+```bash
+npx kafeh
+```
+
+## Parameter (yes | no)
+
+```bash
+npx kafeh yes
+# café!!!
+
+npx kafeh no
+# GET OUT OF HERE!
+```
 ---
 
 ## License

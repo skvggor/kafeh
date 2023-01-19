@@ -1,7 +1,7 @@
 {
   "name": "kafeh",
-  "version": "1.1.0",
-  "description": "Description here",
+  "version": "1.1.1",
+  "description": "I want coffee!!!",
   "main": "index.js",
   "scripts": {
     "test": "test"
