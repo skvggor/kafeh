@@ -1,0 +1,25 @@
+{
+  "name": "kafeh",
+  "version": "1.0.0",
+  "description": "Description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "kafeh": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skvggor/kafeh.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "skvggor <skvggor@youremail.com> (http://skvggor.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skvggor/kafeh/issues"
+  },
+  "homepage": "https://github.com/skvggor/kafeh#readme"
+}
