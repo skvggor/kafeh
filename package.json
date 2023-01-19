@@ -1,6 +1,6 @@
 {
   "name": "kafeh",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "I want coffee!!!",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "url": "git+https://github.com/skvggor/kafeh.git"
   },
   "keywords": [
-    "keyword"
+    "café",
+    "coffee"
   ],
   "author": "skvggor <skvggor@youremail.com> (http://skvggor.github.io)",
   "license": "MIT",
